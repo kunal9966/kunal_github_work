@@ -11,3 +11,39 @@ git status
  git status
  git restore testing.py
  clear
+
+  my degtail
+    2  wd
+    3  pwd
+    4  cd deskstop
+    5  cd ..
+    6  ls-ltr
+    7  ls -ltr
+    8  git --version
+    9  ls -ltr
+   10  cd github/
+   11  git clone https://github.com/kunal9966/kunal.git
+   12  cd kunal
+   13  cd hello
+   14  git status
+   15  git add hello
+   16  git status
+   17   git commit -m "this is my first file"
+   18  git status
+   19  git remote add origin https://github.com/kunal9966/kunal.git
+   20  git push origin main
+   21
+   22  git clone https://github.com/LondheShubham153/node-todo-cicd.git
+   23  ls
+   24  pwd
+   25  cd ..
+   26  ls
+   27  mkdir git-demo-new
+   28  cd git-demo-new/
+   29  ls
+   30  git clone https://github.com/kunal9966/kunal_github_work.git
+   31  ls
+   32  ls
+   33  cd kunal_github_work/
+   34  ls
+   35  historygit
